@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ArpitaPaul2004/LeetcodeChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArpitaPaul2004/LeetcodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ArpitaPaul2004/LeetcodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/ArpitaPaul2004/LeetcodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/ArpitaPaul2004/LeetcodeChallenge/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ArpitaPaul2004/LeetcodeChallenge/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/ArpitaPaul2004/LeetcodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
