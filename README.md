@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ArpitaPaul2004/LeetcodeChallenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ArpitaPaul2004/LeetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ArpitaPaul2004/LeetcodeChallenge/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/ArpitaPaul2004/LeetcodeChallenge/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/ArpitaPaul2004/LeetcodeChallenge/tree/master/1108-defanging-an-ip-address) |
 ## Array
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ArpitaPaul2004/LeetcodeChallenge/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/ArpitaPaul2004/LeetcodeChallenge/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/ArpitaPaul2004/LeetcodeChallenge/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ArpitaPaul2004/LeetcodeChallenge/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/ArpitaPaul2004/LeetcodeChallenge/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/ArpitaPaul2004/LeetcodeChallenge/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
