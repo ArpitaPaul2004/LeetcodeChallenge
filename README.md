@@ -59,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/ArpitaPaul2004/LeetcodeChallenge/tree/master/1480-running-sum-of-1d-array) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/ArpitaPaul2004/LeetcodeChallenge/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/ArpitaPaul2004/LeetcodeChallenge/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
